@@ -1,7 +1,3 @@
-def square_arry(array)
-  
+def square_array(array)
+  # your code here
 end
-
-arr = [1, 2, 3]
-newarr = square_array(arr)
-puts newarr
